@@ -1,2 +1,7 @@
-# aks
-AKS related
+# AKS
+
+- Architecture diagram
+
+## Terraform Provisioning
+
+- Private Cluster
